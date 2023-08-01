@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top-container {
+    background-color: #e4f9f5;
+}
+.top-container p{
+    font-family: 'Montserrat', sans-serif;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.bottom-container{
+    text-align: center;
+    background-color:#11999e;
+    padding: 70px 0 20px;
+    margin-top: 80px;
+}
+.footer-link{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.copyright{
+    color:white;
+    font-weight: normal;
+}
